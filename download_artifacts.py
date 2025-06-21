@@ -1,6 +1,7 @@
 import re
 import requests
 
+# https://docs.github.com/en/rest/actions/artifacts
 artifacts = requests.get("https://api.github.com/repos/QubitPi/hadoop/actions/artifacts").json()["artifacts"]
 for artifact in artifacts:
     if re.match("QubitPi~hadoop~.*.dockerbuild", artifact["name"]):
