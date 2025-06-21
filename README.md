@@ -10,4 +10,4 @@ The goal of this project is to research "on-click" visualization on
 
 1. [Docker Desktop](https://www.docker.com/blog/new-beta-feature-deep-dive-into-github-actions-docker-builds-with-docker-desktop)
 2. [Jaeger](https://www.jaegertracing.io/)
-3. OpenTelemetry
+3. [OpenTelemetry](https://opentelemetry.io/)
