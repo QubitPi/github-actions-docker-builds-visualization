@@ -9,5 +9,5 @@ The goal of this project is to research "on-click" visualization on
 [Docker Builds](https://docker.qubitpi.org/desktop/use-desktop/builds/) combining
 
 1. [Docker Desktop](https://www.docker.com/blog/new-beta-feature-deep-dive-into-github-actions-docker-builds-with-docker-desktop)
-2. Jaeger
+2. [Jaeger](https://www.jaegertracing.io/)
 3. OpenTelemetry
